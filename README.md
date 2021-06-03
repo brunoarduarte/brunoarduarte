@@ -1,4 +1,4 @@
-# Hi there 👋
+<img src="brunoarduarte/img/header.png" alt="GitHub README header image">
 
 <p></a> <a href="https://www.linkedin.com/in/brunoarduarte/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/brunoarduarte/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></p>
 
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+!-->
