@@ -17,3 +17,4 @@
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=brunoarduarte&show_icons=true&hide_border=true&theme=white" width="48%">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=brunoarduarte&theme=white" width="48%">
