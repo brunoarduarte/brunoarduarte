@@ -9,7 +9,7 @@
 
 <br/><br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarduarte&layout=compact&bg_color=0d1117&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/brunoarduarte)
 
-<img src="https://github.com/brunoarduarte/brunoarduarte/blob/main/img/unnamed.png?raw=true" alt="GitHub octopus image"height="600" width="250">
+<img src="https://github.com/brunoarduarte/brunoarduarte/blob/main/img/unnamed.png?raw=true" alt="GitHub octopus image" height="600" width="250">
 
 <h3>If you like my projects, consider pay me a coffee! ☕ </h3>
 <a href="https://www.buymeacoffee.com/brunoarduarte" target="_blank" rel="noreferrer nofollow">
