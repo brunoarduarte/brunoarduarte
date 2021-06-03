@@ -2,7 +2,7 @@
 
 <p><a href="https://www.linkedin.com/in/brunoarduarte/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/brunoarduarte/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
-<ul>
+<ul list-style="none">
   <li>- 🔭 I’m in career transition, former lawyer, currently Web Developer.</li>
   <li>- 🌱 I’m currently learning Web Design, I have already gained some knowledge of HTML, CSS, JS and React.</li>
   <li>- 👯 Loving so much what I do. I’m looking to collaborate to the community.</li>
