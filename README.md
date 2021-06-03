@@ -5,7 +5,7 @@
 <a href="https://www.buymeacoffee.com/brunoarduarte" target="_blank" rel="noreferrer nofollow">
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
-
+<p><img src="https://github-readme-stats.vercel.app/api?username=brunoarduarte;show_icons=true" alt="GitHub Stats"></p>
 <!--
 **brunoarduarte/brunoarduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
