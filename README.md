@@ -7,7 +7,7 @@
 - 👯 I'm Loving so much what I do. I’m looking to collaborate to the community.
 - 📫 How to reach me: E-mail: brunoarduarte@gmail.com
   
-<img src="https://github.com/brunoarduarte/brunoarduarte/blob/main/img/unnamed.png?raw=true" alt="GitHub octopus image" margin= "0 auto" width="48%">
+<img src="https://github.com/brunoarduarte/brunoarduarte/blob/main/img/unnamed.png?raw=true" alt="GitHub octopus image" float="right" width="48%">
 
 <h3>If you like my projects, consider pay me a coffee! ☕ </h3>
 <a href="https://www.buymeacoffee.com/brunoarduarte" target="_blank" rel="noreferrer nofollow">
