@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Web Design, I have already gained some knowledge of HTML, CSS, JS and React.
 - 👯 I'm Loving so much what I do. I’m looking to collaborate to the community.
 - 📫 How to reach me: E-mail: brunoarduarte@gmail.com
-  
-<img src="https://github.com/brunoarduarte/brunoarduarte/blob/main/img/unnamed.png?raw=true" alt="GitHub octopus image" align="right" width="48%">
+
+<br/><br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarduarte&layout=compact&bg_color=0d1117&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/brunoarduarte)
 
 <h3>If you like my projects, consider pay me a coffee! ☕ </h3>
 <a href="https://www.buymeacoffee.com/brunoarduarte" target="_blank" rel="noreferrer nofollow">
