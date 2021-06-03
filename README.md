@@ -11,10 +11,12 @@
 
 <img src="https://github.com/brunoarduarte/brunoarduarte/blob/main/img/unnamed.png?raw=true" alt="GitHub octopus image" align="right" height="600" width="250">
 
+<img src="https://github-readme-stats.vercel.app/api?username=brunoarduarte&show_icons=true&hide_border=true&theme=white" width="48%">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=brunoarduarte&theme=white" width="48%">
+
+<br><br>
+
 <h3>If you like my projects, consider pay me a coffee! ☕ </h3>
 <a href="https://www.buymeacoffee.com/brunoarduarte" target="_blank" rel="noreferrer nofollow">
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=brunoarduarte&show_icons=true&hide_border=true&theme=white" width="48%">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=brunoarduarte&theme=white" width="48%">
