@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="C:/Users/bruno/OneDrive/Área%20de%20Trabalho/header.svg" alt="Header">
+<img src="C:/Users/bruno/OneDrive/Área%20de%20Trabalho/header.svg" alt="Header"/>
 <!--
 **brunoarduarte/brunoarduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
