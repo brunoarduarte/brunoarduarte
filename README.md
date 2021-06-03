@@ -5,6 +5,7 @@
 - 🔭 I’m in career transition, former lawyer, currently Web Developer.
 - 🌱 I’m currently learning Web Design, I have already gained some knowledge of HTML, CSS, JS and React.
 - 👯 Loving so much what I do. I’m looking to collaborate to the community.
+- 📫 How to reach me:E-mail: brunoarduarte@gmail.com
   
 <img src="https://github.com/brunoarduarte/brunoarduarte/blob/main/img/unnamed.png?raw=true" alt="GitHub octopus image" width="48%">
 
