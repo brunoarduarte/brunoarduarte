@@ -2,11 +2,11 @@
 
 <p></a> <a href="https://www.linkedin.com/in/brunoarduarte/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/brunoarduarte/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></p>
 
-<p>
-- 🔭 I’m in career transition, former lawyer, currently Web Developer.
-- 🌱 I’m currently learning Web Design, I have already gained some knowledge of HTML, CSS, JS and React.
-- 👯 Loving so much what I do. I’m looking to collaborate to the community.
-</p>
+<ul>
+  <li>- 🔭 I’m in career transition, former lawyer, currently Web Developer.</li>
+  <li>- 🌱 I’m currently learning Web Design, I have already gained some knowledge of HTML, CSS, JS and React.</li>
+  <li>- 👯 Loving so much what I do. I’m looking to collaborate to the community.</li>
+</ul>
   
 <img src="https://github.com/brunoarduarte/brunoarduarte/blob/main/img/unnamed.png?raw=true" alt="GitHub octopus image"height="600" width="48%">
 <a href="https://www.buymeacoffee.com/brunoarduarte" target="_blank" rel="noreferrer nofollow">
