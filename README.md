@@ -7,8 +7,6 @@
 - 👯 I'm Loving so much what I do. I’m looking to collaborate to the community.
 - 📫 How to reach me: E-mail: brunoarduarte@gmail.com
 
-<img src="https://github.com/brunoarduarte/brunoarduarte/blob/main/img/unnamed.png?raw=true" alt="GitHub octopus image"height="600" width="250">
-
 <br/><br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarduarte&layout=compact&bg_color=0d1117&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/brunoarduarte)
 
 <img src="https://github.com/brunoarduarte/brunoarduarte/blob/main/img/unnamed.png?raw=true" alt="GitHub octopus image" align="right" height="600" width="250">
