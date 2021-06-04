@@ -22,3 +22,5 @@
 <a href="https://www.buymeacoffee.com/brunoarduarte" target="_blank" rel="noreferrer nofollow">
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
+
+<img src="https://github.com/brunoarduarte/brunoarduarte/blob/main/img/footer.png" alt="GitHub README footer image" width="100%">
