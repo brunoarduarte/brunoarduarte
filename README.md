@@ -4,7 +4,16 @@
 - 📫 How to reach me? E-mail: brunoarduarte@gmail.com
 
 <div align="center">
-<p><a href="https://www.linkedin.com/in/brunoarduarte/" target="_blank" marginRight="20" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=50></a><a href="https://www.instagram.com/brunoarduarte/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=50></a></p>
+  <a href="https://www.linkedin.com/in/brunoarduarte/" target="_blank" margin="0 20" borderRadius="10px">
+    <kbd>
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=50>
+    </kbd>
+  </a>
+  <a href="https://www.instagram.com/brunoarduarte/?hl=pt-br" target="_blank">
+    <kbd>
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=50>
+    </kbd>
+  </a>
 </div>
 <hr/>
 <!-- <div>
@@ -17,8 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brunoarduarte&show_icons=true&hide_border=true&theme=dracula" width="35%">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=brunoarduarte&hide_border=true&theme=dracula" width="35%">
 </div> 
-
-<br><br>
+<hr/>
 
 <div align="center"> 
 <h3>If you like my projects, consider pay me a coffee! ☕ </h3>
