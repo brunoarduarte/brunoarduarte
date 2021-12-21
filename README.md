@@ -31,7 +31,9 @@
 <div align="center"> 
 <h3>If you like my projects, consider pay me a coffee! ☕ </h3>
 <a href="https://www.buymeacoffee.com/brunoarduarte" target="_blank" rel="noreferrer nofollow">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+  <kbd>
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+  </kbd>
 </a>
 </div>
 <hr/>
