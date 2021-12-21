@@ -22,9 +22,9 @@
 
 <div align="center">
 <a href="https://github.com/brunooarduarte">
-  <img height="133em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarduarte&layout=compact&langs_count=7&hide_border=true&theme=dracula"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=brunoarduarte&show_icons=true&hide_border=true&theme=dracula" width="35%">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=brunoarduarte&hide_border=true&theme=dracula" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarduarte&layout=compact&langs_count=7&hide_border=true&theme=dracula" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoarduarte&show_icons=true&hide_border=true&theme=dracula" width="33%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoarduarte&hide_border=true&theme=dracula" width="33%">
 </div> 
 <hr/>
 
