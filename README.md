@@ -1,7 +1,8 @@
-- 🔭 I’m in career transition, former lawyer, currently Web Developer.
-- 🌱 I’m currently learning Web Design and Web Developing. I have already gained some knowledge of HTML, CSS, JS, React and Redux, Node.js, Socket, MySQL, MongoDB and Java.
-- 👯 I'm Loving so much what I do and I’m looking to collaborate to the community.
-- 📫 How to reach me? E-mail: brunoarduarte@gmail.com
+- I'm a father, husband and Software Developer.
+- Actually, I’m in career transition, a former lawyer and currently a Software Developer.
+- I’m currently learning Web Design and Web Developing. I have already gained some knowledge of HTML, CSS, JS, React and Redux, Node.js, Rest, Restful, Software Architecture, Socket, MySQL, MongoDB and Java.
+- I'm Loving so much what I do and I’m looking to collaborate to the community.
+- How to reach me? E-mail: brunoarduarte@gmail.com
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brunoarduarte/" target="_blank" margin="0 20" borderRadius="10px">
