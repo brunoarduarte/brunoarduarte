@@ -1,6 +1,6 @@
 - I'm a father, husband and Software Developer.
 - Actually, I’m in career transition, a former lawyer and currently a Software Developer.
-- I’m currently learning I’m currently learning <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> and <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">.
+- I’m currently learning <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> and <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">.
 - I want to learn <img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logoColor=purple">
 - I'm Loving so much what I do and I’m looking to collaborate to the community.
 - How to reach me? E-mail: brunoarduarte@gmail.com
