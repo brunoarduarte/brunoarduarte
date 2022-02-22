@@ -1,6 +1,7 @@
 - I'm a father, husband and Software Developer.
 - Actually, I’m in career transition, a former lawyer and currently a Software Developer.
-- I’m currently learning Web Design and Web Developing. I have already gained some knowledge of HTML, CSS, JS, React and Redux, Node.js, Rest, Restful, Software Architecture, Socket, MySQL, MongoDB and Java.
+- I’m currently learning I’m currently learning <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> and <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">.
+- I want to learn <img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logoColor=purple">
 - I'm Loving so much what I do and I’m looking to collaborate to the community.
 - How to reach me? E-mail: brunoarduarte@gmail.com
 
@@ -17,13 +18,8 @@
   </a>
 </div>
 <hr/>
-<!-- <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarduarte&layout=compact&bg_color=0d1117&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/brunoarduarte)
-</div> -->
 
 <div align="center">
-<a href="https://github.com/brunooarduarte">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarduarte&layout=compact&langs_count=7&hide_border=true&theme=dracula" width="33%">
   <img src="https://github-readme-stats.vercel.app/api?username=brunoarduarte&show_icons=true&hide_border=true&theme=dracula" width="33%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoarduarte&hide_border=true&theme=dracula" width="33%">
 </div> 
@@ -54,4 +50,5 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
