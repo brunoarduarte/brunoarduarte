@@ -1,6 +1,6 @@
 - I'm a father, husband and Software Developer.
 - Currently, I’m System Analyst at Wipro.
-- I’m currently learning <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">.
+- I’m currently learning <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> and <img src="http://img.shields.io/badge/-Outsystems-F89820?style=flat&logo=java&logoColor=white">.
 - I want to learn <img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logoColor=purple">
 - I'm Loving so much what I do and I’m looking to collaborate to the community.
 - How to reach me? E-mail: brunoarduarte@gmail.com
@@ -23,16 +23,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoarduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarduarte&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
-<hr/>
-
-<div align="center"> 
-<h3>If you like my projects, consider pay me a coffee! ☕ </h3>
-<a href="https://www.buymeacoffee.com/brunoarduarte" target="_blank" rel="noreferrer nofollow">
-  <kbd>
-    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-  </kbd>
-</a>
-</div>
 <hr/>
 
 <div style="display: inline_block" align="center"><br>
